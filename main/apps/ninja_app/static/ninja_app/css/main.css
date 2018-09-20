@@ -1,0 +1,20 @@
+img {
+    /* width: 200px; */
+    height: 150px;
+}
+#log {
+    height: 150px;
+    overflow: scroll;
+}
+.container {
+    min-height: 900px;
+}
+section .jumbotron {
+    padding: 30px;
+}
+#earned {
+    color: green;
+}
+#lost {
+    color: red;
+}
